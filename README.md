@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LyteSim
-- 👀 I’m interested in Dataq Analysis and Natural Language Processing
+- 👀 I’m interested in Data Analysis and Natural Language Processing
 - 🌱 I’m currently learning data analysis tools for Biomedical applications 
 - 💞️ I’m looking to collaborate!
 - 📫 How to reach me: Here on GitHub
