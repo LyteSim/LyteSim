@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LyteSim
-- 👀 I’m interested in Data Analysis and Natural Language Processing
-- 🌱 I’m currently learning data analysis tools for Biomedical applications 
-- 💞️ I’m looking to collaborate!
+- 👀 I’m interested in time management and how can technology help with creating more balanced calm lives instead of the opposite.
 - 📫 How to reach me: Here on GitHub
 
 <!---
